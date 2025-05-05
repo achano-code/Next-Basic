@@ -1,0 +1,11 @@
+# Ignore artifacts:
+build
+coverage
+eslint.config.mjs
+next-env.d.ts
+next.config.ts
+package-lock.json
+package.json
+postcss.config.mjs
+README.md
+tsconfig.json
